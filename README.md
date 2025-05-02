@@ -6,7 +6,7 @@ I'm a Financial Modeling Expert, Data Analyst, and Business Intelligence Consult
 - Financial modeling and forecasting (Excel, FAST standards, pursuing FMVA certification)
 - Budgeting, cost analysis, and business planning
 - Data visualization with Power BI and Excel dashboards
-- Automating financial reports using Power Query and VBA
+- Automating financial reports using Power Query
 - Working with financial and programmatic data across Africa
 
 ---
